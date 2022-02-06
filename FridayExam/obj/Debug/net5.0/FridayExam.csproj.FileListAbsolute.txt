@@ -1,0 +1,15 @@
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/FridayExam.deps.json
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/FridayExam.runtimeconfig.json
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/FridayExam.runtimeconfig.dev.json
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/FridayExam.dll
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/ref/FridayExam.dll
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/bin/Debug/net5.0/FridayExam.pdb
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.csproj.AssemblyReference.cache
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.AssemblyInfoInputs.cache
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.AssemblyInfo.cs
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.csproj.CoreCompileInputs.cache
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.dll
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/ref/FridayExam.dll
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.pdb
+/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.genruntimeconfig.cache
