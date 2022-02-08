@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace FridayExam
@@ -17,7 +17,7 @@ namespace FridayExam
 
             //Question 2
 
-            string bulls_string  = "abbaca";
+            string bulls_string = "abbaca";
             Console.WriteLine("Final After removing duplicates is {0}", RemoveDuplicates(bulls_string));
 
             Console.WriteLine();
@@ -25,10 +25,10 @@ namespace FridayExam
 
             //Question 3
 
-            string[] words =  { "bella", "label", "roller" };
+            string[] words = { "bella", "label", "roller" };
             List<char> common_words = CommonChars(words);
             Console.WriteLine("Common characters are:");
-            foreach(char c in common_words)
+            foreach (char c in common_words)
             {
                 Console.Write(c + " ");
             }
@@ -48,7 +48,12 @@ namespace FridayExam
 
             string s1 = "anagram";
             string t = "nagaram";
-            Console.WriteLine("Given two strings are {0}", IsAnagram(s1, t));
+            bool flag1 = IsAnagram(s1, t);
+            if(flag1)
+            Console.WriteLine("Given two strings are anagrams");
+            else
+            Console.WriteLine("Given two strings are not anagrams");
+
             Console.WriteLine();
             Console.WriteLine();
 
@@ -77,7 +82,7 @@ namespace FridayExam
             {
                 return "";
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw e;
             }
@@ -94,7 +99,7 @@ namespace FridayExam
                 return common_words;
 
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw e;
             }
@@ -108,22 +113,21 @@ namespace FridayExam
             {
                 return 0;
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw e;
             }
         }
 
-        
         //Question 5
 
-        public static bool IsAnagram(string s , string t)
+        public static bool IsAnagram(string s, string t)
         {
             try
             {
                 return false;
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw e;
             }
