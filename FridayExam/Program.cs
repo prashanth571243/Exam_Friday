@@ -17,8 +17,8 @@ namespace FridayExam
 
             //Question 2
 
-            string s = "abbaca";
-            Console.WriteLine("Final After removing duplicates is {0}", RemoveDuplicates(s));
+            string bulls_string  = "abbaca";
+            Console.WriteLine("Final After removing duplicates is {0}", RemoveDuplicates(bulls_string));
 
             Console.WriteLine();
             Console.WriteLine();
