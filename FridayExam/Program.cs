@@ -5,6 +5,8 @@ namespace FridayExam
 {
     class Program
     {
+        private static int i;
+
         static void Main(string[] args)
         {
             //Question 1
@@ -46,11 +48,27 @@ namespace FridayExam
 
         //Question 1
 
-        public static void PrintPattern(int N)
+        public static int PrintPattern(int N)
         {
+            
+            int i = 0;
+            int j = 0;
+            
+
+          
+
             try
             {
-
+                for (i = N; i < N; ++i)
+                {
+                    for(j=1;j<=i;++j)
+                    {
+                      Console.Write("*");
+                    }
+                    Console.WriteLine();
+                }
+                return -1;
+                
             }
             catch (Exception e)
             {
@@ -64,8 +82,33 @@ namespace FridayExam
         {
             try
             {
-                return 0;
+                int i = 0;
+                int j = 0;
+                int count = 0;
+                int result = 0;
+                int prev1 = 0;
+
+
+                for (i = 0; i < nums.Length; i++)
+                {
+                    for (j = 0; j < nums.Length; j++)
+                    {
+                        if (nums[i] < nums[i + 1])
+                        {
+                            count = nums[i];
+                        }
+                        if (count == nums[i] && count > prev1)
+                        {
+                            result = count;
+                            prev1 = count;
+                        }
+
+                    }
+                }
+
+                return result;
             }
+
             catch (Exception e)
             {
                 throw;
@@ -80,8 +123,17 @@ namespace FridayExam
 
             try
             {
-                return groups;
+                Array.Sort(words);
+                for (i = 0; i < words.Length; i++)
+                {
+                    for (j = 0; j < words.Length; j++)
+                    {
+                        if (words[i] = words[j]) ;
+                    }
+                 
+                }
 
+                return groups;
             }
             catch (Exception e)
             {

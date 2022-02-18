@@ -13,3 +13,19 @@
 /Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/ref/FridayExam.dll
 /Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.pdb
 /Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/Debug/net5.0/FridayExam.genruntimeconfig.cache
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.exe
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.deps.json
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.runtimeconfig.json
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.runtimeconfig.dev.json
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.dll
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\ref\FridayExam.dll
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\bin\Debug\net5.0\FridayExam.pdb
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.csproj.AssemblyReference.cache
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.AssemblyInfoInputs.cache
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.AssemblyInfo.cs
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.csproj.CoreCompileInputs.cache
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.dll
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\ref\FridayExam.dll
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.pdb
+C:\Users\91938\Source\Repos\Exam_Friday\FridayExam\obj\Debug\net5.0\FridayExam.genruntimeconfig.cache

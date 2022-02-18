@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/nagababuveganti/.nuget/packages/": {}
+    "C:\\Users\\91938\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/FridayExam.csproj",
+      "projectUniqueName": "C:\\Users\\91938\\Source\\Repos\\Exam_Friday\\FridayExam\\FridayExam.csproj",
       "projectName": "FridayExam",
-      "projectPath": "/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/FridayExam.csproj",
-      "packagesPath": "/Users/nagababuveganti/.nuget/packages/",
-      "outputPath": "/Users/nagababuveganti/Documents/DIS TA Root/DIS Spring 2022/Exam 1/FridayExam/FridayExam/obj/",
+      "projectPath": "C:\\Users\\91938\\Source\\Repos\\Exam_Friday\\FridayExam\\FridayExam.csproj",
+      "packagesPath": "C:\\Users\\91938\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\91938\\Source\\Repos\\Exam_Friday\\FridayExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nagababuveganti/.config/NuGet/NuGet.Config"
+        "C:\\Users\\91938\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
